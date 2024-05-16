@@ -32,7 +32,7 @@ html{
 h1 {
     text-align: center;
     color: #f0f0f0;
-    filter: drop-shadow(2px 2px 4px rgb #0b7af1);
+    filter: drop-shadow(1px 1px 10px rgb #32f020);
 }
 h2{
     text-align: center;
@@ -126,4 +126,8 @@ select{
 }
 .numero{
     width: 2rem;
+}
+footer{
+    display: flex;
+    justify-content: end;
 }
