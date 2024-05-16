@@ -32,8 +32,7 @@ html{
 h1 {
     text-align: center;
     color: #f0f0f0;
-  
-    
+    filter: drop-shadow(2px 2px 4px rgb #0b7af1);
 }
 h2{
     text-align: center;
